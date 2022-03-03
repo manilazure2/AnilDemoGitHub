@@ -1,0 +1,9 @@
+{
+	"name": "DataFatoryGITHUB",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bb738185-dcf6-45af-8e16-a8b38cdca29a",
+		"tenantId": "a2c30b47-56ba-4813-92da-a5a991c1615a"
+	}
+}
